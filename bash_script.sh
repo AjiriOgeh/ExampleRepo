@@ -19,5 +19,4 @@ git commit -m "initial Commit"
 git branch -M main
 git remote add origin https://github.com/AjiriOgeh/$repository.git
 git push -u origin main
-git branch in-dev
-git push origin in-dev
+git branch dev
